@@ -15,7 +15,7 @@
  *  @param handler 选取联系人后的回调
  */
 - (void)callContactsHandler:(WbContactsBlock)handler;
-
+```
 
 ```Objective-c
 //在点击添加联系人按钮事件里面：
