@@ -4,7 +4,7 @@
 1.添加紧急联系人
 ***权限配置***
 ***通讯录权限： Privacy - Contacts Usage Description  是否允许此App访问你的通讯录？***
-
+![效果图](https://github.com/cuishengxi/ContactBook/blob/master/1375AF7C8D253AAD3AEA915CD6ECEE67.png?raw=true)
 ```Objective-c
 
 把这个类直接干到你的文件里，怎么干，不用教了吧
