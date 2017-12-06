@@ -1,6 +1,9 @@
 # ContactBook
 调用系统通讯录选择联系人
+
 1.添加紧急联系人
+***权限配置***
+***通讯录权限： Privacy - Contacts Usage Description  是否允许此App访问你的通讯录？***
 
 ```Objective-c
 
